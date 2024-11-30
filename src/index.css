@@ -3,7 +3,7 @@ body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   line-height: 1.6;
-  background: linear-gradient(to bottom right, #c9f6c6, #dff2f8);
+  background: linear-gradient(to bottom right, #F8FDE9, #EEFAD8, #AFE6C2, #B0E6ED, #F9FBFB);
   color: #333;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 .start-chat-button {
-  padding: 15px 30px;
+  padding: 20px 35px;
   background: #4caf50;
   color: white;
   font-size: 1em;
